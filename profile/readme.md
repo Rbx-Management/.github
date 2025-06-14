@@ -20,8 +20,8 @@ All from inside Discord.
 - Asset tools
 
 ## 📜 Terms & Privacy
-- [Terms of Service](https://rbx-management.github.io/tos.html)
-- [Privacy Policy](https://rbx-management.github.io/privacy.html)
+- [Terms of Service](https://rbx-management.github.io/TOS.html)
+- [Privacy Policy](https://rbx-management.github.io/PrivacyPolicy.html)
 
 ## 🛠️ Projects
 This organization hosts:
