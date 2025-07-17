@@ -20,8 +20,8 @@ All from inside Discord.
 - Asset tools
 
 ## 📜 Terms & Privacy
-- [Terms of Service](https://rbxmanager.me/TOS)
-- [Privacy Policy](https://rbxmanager.me/PrivacyPolicy)
+- [Terms of Service](https://rbxmanager.me/#tos)
+- [Privacy Policy](https://rbxmanager.me/#privacy)
 
 ## 🛠️ Projects
 This organization hosts:
@@ -32,7 +32,10 @@ This organization hosts:
 
 ## 📬 Contact & Support
 Have issues or want to request a feature?  
-*Coming soon*
+Check out our discord server!
+
+[![Join us on Discord](https://img.shields.io/badge/Discord-Join%20Chat-blue?logo=discord&style=for-the-badge)](https://discord.gg/rbxm)
+
 
 ---
 
